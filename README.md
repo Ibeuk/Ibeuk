@@ -1,128 +1,102 @@
-# Hi, I'm Ibe 👋
+<div align="center">
 
-### Software Engineer | Building Web Applications, SaaS, AI & Automation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:0E7490,70:22D3EE,100:67E8F9&text=IBTEX%20GLOBAL%20LTD&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&section=header" />
 
-I'm a Software Engineer passionate about turning ideas into practical, scalable software.
+<br/>
 
-I build **web applications, SaaS products, automation systems, and AI-powered solutions** that solve real-world problems and improve how people and businesses work.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ibe+%F0%9F%91%8B;Software+Engineer;Web+Applications+%7C+SaaS+%7C+AI+%7C+Automation;Build.+Automate.+Solve.+Ship." />
 
-I enjoy working across the full product lifecycle — from understanding an idea and designing the architecture to building, integrating, testing, and deploying the final product.
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ibeuk&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ibeuk?label=FOLLOWERS&style=for-the-badge&color=0e7490" />
+<img src="https://img.shields.io/github/stars/ibeuk?affiliations=OWNER&style=for-the-badge&color=22d3ee" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 About Me
+
+💡 Software Engineer building:
+
+- 🌐 **Web Applications**
+- 🚀 **SaaS Products**
+- 🤖 **AI Applications**
+- ⚙️ **Automation Systems**
+- 🛠️ **Custom Software**
+
+✨ Focus: **practical, scalable, useful software**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,vercel,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/ComfyUI-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+</div>
 
 ---
 
 ## 🚀 What I Build
 
-* 🌐 **Web Applications** — responsive, modern, and production-ready web experiences
-* 💻 **SaaS Products** — software products designed around real business problems
-* 🤖 **AI Applications** — AI-powered tools, integrations, and intelligent workflows
-* ⚙️ **Automation Systems** — automated workflows, API integrations, and business processes
-* 🛠️ **Custom Software** — purpose-built tools and internal systems
+<div align="center">
+
+| 🌐 Web Apps | 💻 SaaS | 🤖 AI Tools |
+|---|---|---|
+| Responsive, modern web experiences | Products built around real business problems | AI-powered tools, workflows & integrations |
+
+| ⚙️ Automation | 🛠️ Custom Software | 🔌 APIs |
+|---|---|---|
+| Automated business processes | Purpose-built internal tools | Connected systems & scalable integrations |
+
+</div>
 
 ---
 
-## 🧰 Technologies & Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Languages
+## 🔨 Currently Working On
 
-`JavaScript` `TypeScript` `Python` `HTML` `CSS`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express` `REST APIs`
-
-### AI & Automation
-
-`Generative AI` `AI APIs` `n8n` `ComfyUI` `AI Workflows`
-
-### Databases
-
-`PostgreSQL` `MySQL` `MongoDB`
-
-### Platforms & Tools
-
-`Git` `GitHub` `Docker` `Vercel` `Cloudflare`
-
-### Website & CMS Platforms
-
-`Wix` `WordPress` `Shopify` `Webflow`
-
----
-
-## 🔨 What I'm Currently Working On
-
-I'm building and experimenting with software products across:
-
-* AI-powered applications
-* SaaS platforms
-* Developer tools
-* Business automation
-* Web applications
-* AI image & video workflows
-* API-driven software solutions
-
-I’m particularly interested in finding ways to combine **software engineering, AI, and automation** to create useful products.
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI Projects
-
-AI-powered applications and workflows designed to automate tasks, generate content, or solve specific problems.
-
-### 🌐 Web Applications
-
-Modern web applications focused on usability, performance, and responsive experiences.
-
-### ⚙️ Automation Tools
-
-Systems that connect APIs, applications, and business processes to eliminate repetitive work.
-
-### 🚀 SaaS Products
-
-Software products built around specific problems, with an emphasis on practical functionality and scalability.
-
-> More projects and detailed technical documentation coming soon.
-
----
-
-## 📊 My Engineering Philosophy
-
-I believe good software should be:
-
-**Simple → Useful → Reliable → Scalable**
-
-I don't just want to make software that works. I want to build products that are understandable, maintainable, and genuinely useful to the people using them.
-
----
-
-## 🌱 Currently Learning & Exploring
-
-* Advanced AI engineering
-* Generative AI systems
-* AI agents and workflows
-* Scalable web architectures
-* SaaS development
-* API integrations
-* Cloud deployment
-* Developer productivity
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in interesting software ideas, collaborations, and opportunities to build useful products.
-
-🌐 **Portfolio:** https://ibtex.ibe88agwu.workers.dev/
-
-⚡ **Contra:** https://contra.com/ibe_uko_7lh5hmcb?
-
-📧 **Email:** ibe88agwu@gmail.com
-
----
-
-### ⚡ Build. Automate. Solve. Ship.
+```text
+AI-powered applications
+SaaS platforms
+Developer tools
+Business automation
+Modern web applications
+AI image & video workflows
+API-driven software
