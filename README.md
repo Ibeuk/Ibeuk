@@ -88,7 +88,7 @@
 
 <br/><br/>
 
-📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -105,7 +105,7 @@
 
 </div>
 
-📈 Engineering Philosophy
+### 📈 Engineering Philosophy
 
 <div align="center">
 
@@ -117,3 +117,21 @@ Simple → Useful → Reliable → Scalable
 <img src="https://img.shields.io/badge/SCALABLE-22D3EE?style=for-the-badge&logoColor=111827" alt="Scalable"/>
 
 </div>
+
+### 📬 Social Media
+
+<a href="https://ibtex.ibe88agwu.workers.dev/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=cloudflare&logoColor=22D3EE" />
+</a>
+<a href="https://www.instagram.com/ibtex01">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://contra.com/ibe_uko_7lh5hmcb">
+  <img src="https://img.shields.io/badge/CONTRA-000000?style=for-the-badge&logo=contra&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/ibeaistudio">
+  <img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+<a href="mailto:ibe88agwu@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
