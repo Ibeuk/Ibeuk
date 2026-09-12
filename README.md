@@ -46,95 +46,90 @@
 
 <div align="center">
 
-#<div align="center">
-
 ## 🧰 Technologies & Tools
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 
----
+<br/><br/>
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🔌 APIs & Integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" alt="Swagger" />
-  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="48" alt="JSON" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="48" alt="GraphQL" />
-</p>
+<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Integrations-155E75?style=for-the-badge&logo=apachespark&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🤖 AI & Automation
 
-<p>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="48" alt="Google Gemini" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
-</p>
+<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/ComfyUI-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Workflows-0F766E?style=for-the-badge&logo=probot&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge&logoColor=white" alt="ComfyUI" />
-</p>
-
----
+<br/><br/>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🛠️ Developer Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
----
+<br/><br/>
+
+### 🧠 AI Coding Tools
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<br/><br/>
 
 ### ☁️ Cloud & Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase&theme=dark" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
-  <img src="https://cdn.simpleicons.org/railway/FFFFFF" height="48" alt="Railway" />
-</p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
----
+<br/><br/>
 
 ### 🌐 Platforms & CMS
 
-<p>
-  <img src="https://cdn.simpleicons.org/wix/FFFFFF" height="48" alt="Wix" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" />
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="Shopify" />
-  <img src="https://cdn.simpleicons.org/webflow/146EF5" height="48" alt="Webflow" />
-</p>
+<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
 
 </div>
 
