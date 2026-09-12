@@ -46,93 +46,6 @@
 
 <div align="center">
 
-## 🧰 Technologies & Tools
-
-### 💻 Languages
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br/><br/>
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-
-<br/><br/>
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br/><br/>
-
-### 🔌 APIs & Integrations
-
-<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integrations-155E75?style=for-the-badge&logo=apachespark&logoColor=white" />
-
-<br/><br/>
-
-### 🤖 AI & Automation
-
-<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/ComfyUI-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Workflows-0F766E?style=for-the-badge&logo=probot&logoColor=white" />
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<br/><br/>
-
-### 🛠️ Developer Tools
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/><br/>
-
-### 🧠 AI Coding Tools
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-<br/><br/>
-
-### ☁️ Cloud & Deployment
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-
-<br/><br/>
-
-### 🌐 Platforms & CMS
-
-<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
-
-</div>
-
 ---
 
 ## 🚀 What I Build
@@ -151,18 +64,56 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🧰 Technologies & Tools**
 
-## 🔨 Currently Working On
+### 💻 Languages
 
-```text
-AI-powered applications
-SaaS platforms
-Developer tools
-Business automation
-Modern web applications
-AI image & video workflows
-API-driven software
-Cloud-ready digital solutions
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cloudflare" width="50" alt="Cloudflare"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
+
+<br/><br/>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibeuk&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibeuk&theme=tokyonight" width="48%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibeuk&theme=tokyonight" width="96%" alt="GitHub Profile Summary"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ibeuk&theme=tokyonight&hide_border=true" width="72%" alt="GitHub Streak"/>
+
+</div>
+
+📈 Engineering Philosophy
+
+<div align="center">
+
+Simple → Useful → Reliable → Scalable
+
+<img src="https://img.shields.io/badge/UNDERSTANDABLE-0F172A?style=for-the-badge" alt="Understandable"/>
+<img src="https://img.shields.io/badge/MAINTAINABLE-0E7490?style=for-the-badge" alt="Maintainable"/>
+<img src="https://img.shields.io/badge/USEFUL-0891B2?style=for-the-badge" alt="Useful"/>
+<img src="https://img.shields.io/badge/SCALABLE-22D3EE?style=for-the-badge&logoColor=111827" alt="Scalable"/>
+
+</div>
