@@ -46,25 +46,95 @@
 
 <div align="center">
 
+#<div align="center">
+
 ## 🧰 Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,postgres,mysql,mongodb,docker,git,github,vercel,vscode&theme=dark" />
+### 💻 Languages
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+</p>
 
-<img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/ComfyUI-0F172A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
+---
 
-<br/><br/>
+### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+</p>
+
+---
+
+### 🔌 APIs & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" alt="Swagger" />
+  <img src="https://cdn.simpleicons.org/json/FFFFFF" height="48" alt="JSON" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="48" alt="GraphQL" />
+</p>
+
+---
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="48" alt="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge&logoColor=white" alt="ComfyUI" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma&theme=dark" />
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase&theme=dark" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" height="48" alt="Railway" />
+</p>
+
+---
+
+### 🌐 Platforms & CMS
+
+<p>
+  <img src="https://cdn.simpleicons.org/wix/FFFFFF" height="48" alt="Wix" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" />
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="Shopify" />
+  <img src="https://cdn.simpleicons.org/webflow/146EF5" height="48" alt="Webflow" />
+</p>
 
 </div>
 
@@ -100,3 +170,4 @@ Business automation
 Modern web applications
 AI image & video workflows
 API-driven software
+Cloud-ready digital solutions
